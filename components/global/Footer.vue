@@ -1,12 +1,12 @@
 <template>
   <footer :class="$style.footer">
-    <p>&copy; {{ new Date().getFullYear() }} Jason Ujma-Alvis. All rights reserved. <a target="_blank" href="https://jason.codes/cookie-policy" rel="noopener">Cookie Policy</a>.</p>
+    <p>&copy; {{ new Date().getFullYear() }} All rights reserved. <a target="_blank" href="" rel="noopener">Cookie Policy</a>.</p>
     <p>Designed and built by me, data provided by <a target="_blank" href="https://www.themoviedb.org/" rel="noopener">TMDb</a>.</p>
 
     <ul class="nolist">
       <li>
         <a
-          href="https://twitter.com/jasonujmaalvis"
+          href=""
           target="_blank"
           aria-label="Link to Twitter account"
           rel="noopener">
@@ -16,7 +16,7 @@
       </li>
       <li>
         <a
-          href="https://github.com/jasonujmaalvis"
+          href=""
           target="_blank"
           aria-label="Link to GitHub account"
           rel="noopener">
@@ -26,7 +26,7 @@
       </li>
       <li>
         <a
-          href="https://www.linkedin.com/in/jason-ujma-alvis"
+          href=""
           target="_blank"
           aria-label="Link to LinkedIn account"
           rel="noopener">
@@ -36,7 +36,7 @@
       </li>
       <li>
         <a
-          href="mailto:hello@jason.codes"
+          href=""
           aria-label="Link to Email"
           rel="noopener">
           <!-- eslint-disable-next-line -->
